@@ -1,3 +1,8 @@
-# Hello There 🙏
+<h1> Hello There 🙏<h1>
 
 **welcome to my github.**
+**as of now, i'm a student enthisiastic to learn**
+
+## Languages
+
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
