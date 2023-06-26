@@ -1,7 +1,7 @@
 # Hello There 🙏
 
-### **welcome to my github.**
-### **as of now, i'm a student enthisiastic to learn**
+#### **welcome to my github.**
+#### **as of now, i'm a student enthisiastic to learn**
 
 ### Languages
 
