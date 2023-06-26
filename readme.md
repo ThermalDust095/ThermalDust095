@@ -1,4 +1,4 @@
-<h1> Hello There 🙏<h1>
+Hello There 🙏
 
 **welcome to my github.**
 **as of now, i'm a student enthisiastic to learn**
