@@ -12,9 +12,6 @@
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 
 
-### Projects
-
-
 ### Technologies & Frameworks
 
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
