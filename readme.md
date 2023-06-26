@@ -1,7 +1,7 @@
 # Hello There 🙏
 
-**welcome to my github.**
-**as of now, i'm a student enthisiastic to learn**
+### **welcome to my github.**
+### **as of now, i'm a student enthisiastic to learn**
 
 ### Languages
 
@@ -10,6 +10,10 @@
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+
+
+### Projects
+
 
 ### Technologies & Frameworks
 
