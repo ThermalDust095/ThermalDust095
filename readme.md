@@ -1,4 +1,4 @@
-# Hello There 🙏
+# Hello There 
 
 **welcome to my github**
 
