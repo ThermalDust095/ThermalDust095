@@ -1,6 +1,6 @@
 # Hello There 
 
-**welcome to my github**
+**Welcome to my github**
 
 ### Languages
 
